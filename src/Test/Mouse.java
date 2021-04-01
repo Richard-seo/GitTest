@@ -6,6 +6,6 @@ public class Mouse {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("mouse");
+		System.out.println("it's not mouse");
 	}
 }
